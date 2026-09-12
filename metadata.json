@@ -1,0 +1,6 @@
+{
+  "name": "Tečna ke kružnici - GeoGebra",
+  "description": "Didaktická aplikace s GeoGebrou pro procvičování konstrukce tečen ke kružnici z bodu M pro žáky 1. ročníku SŠ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
